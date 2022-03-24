@@ -8,18 +8,15 @@
 # based almost entirely on jdc0589's CaseConversion plug-in for SublimeText:
 # https://github.com/jdc0589/CaseConversion/blob/master/case_conversion.py
 #
-# built with deanishe's Alfred Workflow library:
-# http://www.deanishe.net/alfred-workflow/index.html
-#
+# Light drizzle, mist 🌦   🌡️+43°F (feels +37°F, 86%) 🌬️↙24mph 🌗 Thu Mar 24 12:39:14 2022
+# version 2.0, migrated to Python 3
+
+
 
 import sys
 import re
 import json
 
-def log(s, *args):
-    if args:
-        s = s % args
-    print(s, file=sys.stderr)
 
 
 ### following from jdc0589

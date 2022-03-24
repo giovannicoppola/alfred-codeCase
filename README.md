@@ -9,7 +9,7 @@ Original by Derick Fay [here](https://www.packal.org/workflow/code-case):
 	- Python 3
 	- fixed some icons with background or stretched
 	- replaced dot icon
-	- renamed dash to case to kebab case ⚔️
+	- renamed dash case to kebab case ⚔️
 	- exemplified the conversion in the subtitle (e.g. camelCase)
 	- added all caps and all lower caps
 
